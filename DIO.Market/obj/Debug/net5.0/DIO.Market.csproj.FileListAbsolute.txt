@@ -1,0 +1,16 @@
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.exe
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.deps.json
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.runtimeconfig.json
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.runtimeconfig.dev.json
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.dll
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\ref\DIO.Market.dll
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\bin\Debug\net5.0\DIO.Market.pdb
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.csprojAssemblyReference.cache
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.AssemblyInfoInputs.cache
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.AssemblyInfo.cs
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.csproj.CoreCompileInputs.cache
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.dll
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\ref\DIO.Market.dll
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.pdb
+C:\Users\zeedu\Desktop\Cursos-DIO\DIO.Market\obj\Debug\net5.0\DIO.Market.genruntimeconfig.cache
